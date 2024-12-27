@@ -22,7 +22,7 @@ body {
 .additional-image {
     display: block;
     margin: 20px auto;
-    width: 30%;
+    width: 300px;
     height: auto;
     animation: move 5s infinite alternate;
 }
